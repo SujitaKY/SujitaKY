@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SujitaKY
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 👀 Certified on RPA UiPath Developer Foundation
+- 🌱 Aspiring RPA UiPath Developer
 
 <!---
 SujitaKY/SujitaKY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
